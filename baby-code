@@ -2,5 +2,6 @@
 
 x='Another one!'
 y='-DJ Khaled'
-print(x) and print(y)
+print(x)
+print(y)
 
