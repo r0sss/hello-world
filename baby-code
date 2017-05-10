@@ -1,4 +1,6 @@
 #Baby Code
 
 x='Another one!'
-print(x)
+y='-DJ Khaled'
+print(x) and print(y)
+
